@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    align-items: center;
+    max-width: 1000px;
+    margin: auto;
+    border-bottom: 1px solid #d7d7d7;
+    font-size: 18px;
+    padding: 0px 10px;
+}
+
+.logo {
+    max-width: 40px;
+}
