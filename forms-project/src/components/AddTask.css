@@ -43,4 +43,14 @@
     font-size: 18px;
     padding: 7px 10px;
     margin: 10px;
+    background-color: green;
+}
+.addtask .reset{
+    font-size: 18px;
+    padding: 7px 10px;
+    margin: 10px;
+    background-color: rgb(148, 4, 4);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
 }
